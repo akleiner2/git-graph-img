@@ -1,0 +1,15 @@
+{
+  "name": "git-history-img",
+  "version": "1.0.0",
+  "description": "Node server for capturing GitHub commit history and displaying it as an image  ",
+  "main": "main.js",
+  "scripts": {
+    "start": "phantomjs main.js <username> tmp.png"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/akleiner2/git-history-img"
+  },
+  "author": "Allen Kleiner",
+  "license": "MIT"
+}

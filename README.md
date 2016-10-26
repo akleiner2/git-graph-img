@@ -1,2 +1,9 @@
 # git-graph-img
-Generate a static image of your GitHub contribution graph.
+A little utility to generate a static image output of your GitHub contribution
+graph.
+
+You can use this utility by going into `package.json` and adding your username
+in the placeholder and then running `npm run start`. Make sure that you have
+`phantomjs` already installed on your machine.
+
+TODO: A lot of stuff...
